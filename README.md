@@ -107,7 +107,9 @@ Here are the directions on how to perform a search:
 
 ## Summary 
 * One drawback that this new design encounter is that the information and datasets is publicly exposed so we need to compile them into one place such as a GitHub pages where we can create a site to share a static content. 
-* 
+* Two additional recommendations for further development: 
+  1. Create a GitHub Pages where we can create a website for the projects from our repository to make live updates and changes
+  2. 
 
 
 
