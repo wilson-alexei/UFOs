@@ -112,6 +112,12 @@ Here are the directions on how to perform a search:
 
 
 
+
+`LinkedIn: /www.linkedin.com/in/wilson-alexei/`
+
+`Email: wils.alexei@gmail.com`
+
+
  
  
  
