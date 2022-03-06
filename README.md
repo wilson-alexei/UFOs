@@ -105,6 +105,11 @@ Here are the directions on how to perform a search:
 > Here is the Default dataset and you can filter out whatever criterias that are in your mind: 
 <img width="1440" alt="Back to Default" src="https://user-images.githubusercontent.com/95068439/156906857-c6ef6532-a57f-4648-9bf0-ebacdf1d8313.png">
 
+## Summary 
+* One drawback that this new design encounter is that the information and datasets is publicly exposed so we need to compile them into one place such as a GitHub pages where we can create a site to share a static content. 
+* 
+
+
 
 
  
